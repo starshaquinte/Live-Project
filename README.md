@@ -14,14 +14,21 @@ regardless of device. I worked on several front end and back end stories of all 
 Below are descriptions of the stories I worked on, along with code snippets. I also have some full code files in this repo for larger
 funtionalities I implemented.
 
-<h4>Front End Stories</h4>
+<h3>Front End Stories</h3>
 
 [Styling the Homepage](https://github.com/starshaquinte/Live-Project/blob/main/StyleHomePage.html)
-  '''
+
+
+<h4>Styling the Homepage</h4> 
+The home page was pretty empty and needed some content. I added the logo under the navbar. Created two columns of content under the logo.
+Created a section called Spotlight in the left column, to display upcoming events. Utilized production posters to fill this area.
+Created a section called Donations with a button that says 'Click to Support' that links to the Donation page. Created a section called 
+Sponsors in the right column displaying all 5 sponsors. The Land Acknowledgement section includes details about the land the theatre
+sits on. The The NAYA photo links to https://nayapdx.org/ on a separate tab.
 
 
 
-
+'''
 <h2>Index</h2>
 
 <p>

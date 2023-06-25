@@ -1,15 +1,27 @@
 # Live-Project
 Code Summary of my Live Project
 
+<h5>Introduction</h5>
+
+During my last two weeks at the tech academy, I worked on a team with peers developing using ASP .NET MVC and Entity Framework.
+This project was previously completed and I was responsible for updating content to be interactive and enable its users to manage
+the content and productions for a theater company.
+
+Throughout the Live project I saved time by utilizing Bootstrap to create responsive and visually appealing webpages for the theater website.
+Responsive design is an essential aspect of modern web development, as it ensures that the website can adapt and provide optimal user experience
+regardless of device. I worked on several front end and back end stories of all varying degrees of difficulty.
+
+Below are descriptions of the stories I worked on, along with code snippets. I also have some full code files in this repo for larger
+funtionalities I implemented.
+
+<h4>Front End Stories</h4>
+
+
 
   '''
 
-@model IEnumerable<TheatreCMS3.Areas.Prod.Models.CalendarEvents>
 
-@{
-    ViewBag.Title = "Index";
-    Layout = "~/Views/Shared/_Layout.cshtml";
-}
+
 
 <h2>Index</h2>
 

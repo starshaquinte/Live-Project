@@ -29,10 +29,13 @@ sits on. The NAYA photo links to https://nayapdx.org/ on a separate tab.
 
 <h3>Back End Stories</h3>
 
-<h4>Create entity model for CalendarEvent and CRUD pages</h4>
+[Model for CalendarEvent and CRUD pages](https://github.com/starshaquinte/Live-Project/blob/main/ModelforCalendarEventandCRUDpages.txt)
 
-[Model for CalendarEvent and CRUD pages]
-Created an entity model for the Calendar Event class so that productions can be saved to the database. First I created the model
+<h4>Create entity model for CalendarEvent and CRUD pages</h4>
+Created an entity model for the Calendar Event class so that productions can be saved to the database. First I created the model with
+the "?" indicating that a property is nullable. After creating the model I updated the database to create a table in the database. Utilized 
+SQL Server Object Explorer in Visual Studio to check that the table was created correctly. 
+
 
 
 '''

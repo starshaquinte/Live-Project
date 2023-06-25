@@ -30,6 +30,8 @@ sits on. The NAYA photo links to https://nayapdx.org/ on a separate tab.
 <h3>Back End Stories</h3>
 
 <h4>Create entity model for CalendarEvent and CRUD pages</h4>
+
+[Model for CalendarEvent and CRUD pages]
 Created an entity model for the Calendar Event class so that productions can be saved to the database. First I created the model
 
 

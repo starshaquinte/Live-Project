@@ -16,7 +16,7 @@ funtionalities I implemented.
 
 <h4>Front End Stories</h4>
 
-[Styling the Homepage]
+[Styling the Homepage](https://github.com/starshaquinte/Live-Project/blob/main/StyleHomePage.html)
   '''
 
 

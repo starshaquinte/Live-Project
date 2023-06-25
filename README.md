@@ -24,7 +24,9 @@ The home page was pretty empty and needed some content. I added the logo under t
 Created a section called Spotlight in the left column, to display upcoming events. Utilized production posters to fill this area.
 Created a section called Donations with a button that says 'Click to Support' that links to the Donation page. Created a section called 
 Sponsors in the right column displaying all 5 sponsors. The Land Acknowledgement section includes details about the land the theatre
-sits on. The The NAYA photo links to https://nayapdx.org/ on a separate tab.
+sits on. The NAYA photo links to https://nayapdx.org/ on a separate tab.
+
+
 
 
 

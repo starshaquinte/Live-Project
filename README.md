@@ -45,6 +45,8 @@ SQL Server Object Explorer in Visual Studio to check that the table was created 
 scaffolding the CRUD pages, CRUD follows a simple functionality: Create, Read, Update, Delete. Utilized Visual Studio and EntityFramework
 to create the Index, Edit, Create, Details, and Delete pages).
 
+[Style CRUD Pages Part 2: Index Page for Calendar Event]
+
 
 
 

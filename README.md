@@ -148,7 +148,9 @@ scaffolding the CRUD pages, CRUD follows a simple functionality: Create, Read, U
 to create the Index, Edit, Create, Details, and Delete pages).
 
 <h4>Style CRUD Pages Part 2: Index Page for Calendar Event</h4>
-Created a button using the 'create new' link. 
+Created a button using the 'create new' link. Styled the calendar events to be displayed more like a calendar and less like a table. The
+Calendar displays the month and day of the event followed by the start time and end time. Also added a description box to include details
+of the event. 
 
 
 

@@ -18,6 +18,8 @@ funtionalities I implemented.
 
 [Styling the Homepage](https://github.com/starshaquinte/Live-Project/blob/main/StyleHomePage.html)
 
+[Style CRUD Pages Part 1: Style the Create and Edit Pages for Calendar Event model](https://github.com/starshaquinte/Live-Project/blob/main/StyleCRUDPagesPart1.html)
+
 
 <h4>Styling the Homepage</h4> 
 The home page was pretty empty and needed some content. I added the logo under the navbar. Created two columns of content under the logo.
@@ -26,12 +28,15 @@ Created a section called Donations with a button that says 'Click to Support' th
 Sponsors in the right column displaying all 5 sponsors. The Land Acknowledgement section includes details about the land the theatre
 sits on. The NAYA photo links to https://nayapdx.org/ on a separate tab.
 
+<h4>Style CRUD Pages Part 1: Style the Create and Edit Pages for Calendar Event model</h4>
+The Create and Edit pages were scaffolded but not styled. I added the header "Create Calendar Event" and styled the buttons using the website's
+color theme.  I also ensured all buttons below the form were aligned. I added placeholders to all input fields and added a feature that would 
+change the color when clicked. Finally, I placed the form in a centered container 
+
 
 <h3>Back End Stories</h3>
 
 [Model for CalendarEvent and CRUD pages](https://github.com/starshaquinte/Live-Project/blob/main/ModelforCalendarEventandCRUDpages.txt)
-
-[Style CRUD Pages Part 1: Style the Create and Edit Pages for Calendar Event model](https://github.com/starshaquinte/Live-Project/blob/main/StyleCRUDPagesPart1.html)
 
 <h4>Create entity model for CalendarEvent and CRUD pages</h4>
 Created an entity model for the Calendar Event class so that productions can be saved to the database. First I created the model with
@@ -40,10 +45,7 @@ SQL Server Object Explorer in Visual Studio to check that the table was created 
 scaffolding the CRUD pages, CRUD follows a simple functionality: Create, Read, Update, Delete. Utilized Visual Studio and EntityFramework
 to create the Index, Edit, Create, Details, and Delete pages).
 
-<h4>Style CRUD Pages Part 1: Style the Create and Edit Pages for Calendar Event model</h4>
-The Create and Edit pages were scaffolded but not styled. I added the header "Create Calendar Event" and styled the buttons using the website's
-color theme.  I also ensured all buttons below the form were aligned. I added placeholders to all input fields and added a feature that would 
-change the color when clicked. Finally, I placed the form in a centered container 
+
 
 
 

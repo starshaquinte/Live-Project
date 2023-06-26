@@ -1,7 +1,7 @@
 # Live-Project
 Code Summary of my Live Project
 
-<h5>Introduction</h5>
+<h3>Introduction</h3>
 
 During my last two weeks at the tech academy, I worked on a team with peers developing using ASP .NET MVC and Entity Framework.
 This project was previously completed and I was responsible for updating content to be interactive and enable its users to manage
@@ -151,6 +151,8 @@ to create the Index, Edit, Create, Details, and Delete pages).
 Created a button using the 'create new' link. Styled the calendar events to be displayed more like a calendar and less like a table. The
 Calendar displays the month and day of the event followed by the start time and end time. Also added a description box to include details
 of the event. 
+
+<h3>Other Skills Learned</h3>
 
 
 

@@ -153,6 +153,8 @@ change the color when clicked. Finally, I placed the form in a centered containe
 
 [Model for CalendarEvent and CRUD pages](https://github.com/starshaquinte/Live-Project/blob/main/ModelforCalendarEventandCRUDpages.txt)
 
+[Style CRUD Pages Part 2: Index Page for Calendar Event]
+
 <h4>Create entity model for CalendarEvent and CRUD pages</h4>
 Created an entity model for the Calendar Event class so that productions can be saved to the database. First I created the model with
 the "?" indicating that a property is nullable. After creating the model I updated the database to create a table in the database. Utilized 

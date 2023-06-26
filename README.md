@@ -31,6 +31,8 @@ sits on. The NAYA photo links to https://nayapdx.org/ on a separate tab.
 
 [Model for CalendarEvent and CRUD pages](https://github.com/starshaquinte/Live-Project/blob/main/ModelforCalendarEventandCRUDpages.txt)
 
+[Style CRUD Pages Part 1: Style the Create and Edit Pages for Calendar Event model](https://github.com/starshaquinte/Live-Project/blob/main/StyleCRUDPagesPart1.html)
+
 <h4>Create entity model for CalendarEvent and CRUD pages</h4>
 Created an entity model for the Calendar Event class so that productions can be saved to the database. First I created the model with
 the "?" indicating that a property is nullable. After creating the model I updated the database to create a table in the database. Utilized 
@@ -38,5 +40,5 @@ SQL Server Object Explorer in Visual Studio to check that the table was created 
 scaffolding the CRUD pages, CRUD follows a simple functionality: Create, Read, Update, Delete. Utilized Visual Studio and EntityFramework
 to create the Index, Edit, Create, Details, and Delete pages).
 
-[Style CRUD Pages Part 1: Style the Create and Edit Pages for Calendar Event model]
+
 

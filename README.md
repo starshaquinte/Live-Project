@@ -40,5 +40,10 @@ SQL Server Object Explorer in Visual Studio to check that the table was created 
 scaffolding the CRUD pages, CRUD follows a simple functionality: Create, Read, Update, Delete. Utilized Visual Studio and EntityFramework
 to create the Index, Edit, Create, Details, and Delete pages).
 
+<h4>Style CRUD Pages Part 1: Style the Create and Edit Pages for Calendar Event model</h4>
+The Create and Edit pages were scaffolded but not styled. I added the header "Create Calendar Event" and styled the buttons using the website's
+color theme.  I also ensured all buttons below the form were aligned. I added placeholders to all input fields and added a feature that would 
+change the color when clicked. Finally, I placed the form in a centered container 
+
 
 

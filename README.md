@@ -154,6 +154,11 @@ of the event.
 
 <h3>Other Skills Learned</h3>
 
+- Gained an understanding and utilized of version control in Azure DevOps.
+- Aquired skills with Git, I was able to maintain a local copy of the entire project, enabling me to work independently.
+- Gained experience utilizing MVC Basics, the main functions into 3 groups: the model, the controller, and the view.
+- GAined experience utilizing Agile framework, participated in Scrum, Daily standups and Code retrospective
+
 
 
 

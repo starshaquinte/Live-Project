@@ -34,19 +34,7 @@ color theme.  I also ensured all buttons below the form were aligned. I added pl
 change the color when clicked. Finally, I placed the form in a centered container 
 
 '''
-@model TheatreCMS3.Areas.Prod.Models.CalendarEvents
 
-@{
-    ViewBag.Title = "Edit";
-    Layout = "~/Views/Shared/_Layout.cshtml";
-}
-
-<h2>Edit</h2>
-
-
-@using (Html.BeginForm())
-{
-    @Html.AntiForgeryToken()
 
     <div class="container CalendarEvents-create-container">
     <div class="form-horizontal CalendarEvents-create-container">
@@ -139,21 +127,18 @@ change the color when clicked. Finally, I placed the form in a centered containe
             </div>
         </div>
     </div>
-}
 
 
 
-@section Scripts {
-    @Scripts.Render("~/bundles/jqueryval")
-}
-'''
+
+
 
 
 <h3>Back End Stories</h3>
 
 [Model for CalendarEvent and CRUD pages](https://github.com/starshaquinte/Live-Project/blob/main/ModelforCalendarEventandCRUDpages.txt)
 
-[Style CRUD Pages Part 2: Index Page for Calendar Event]
+[Style CRUD Pages Part 2: Index Page for Calendar Event](https://github.com/starshaquinte/Live-Project/blob/main/Style%20CRUD%20Pages%20Part%202.txt)
 
 <h4>Create entity model for CalendarEvent and CRUD pages</h4>
 Created an entity model for the Calendar Event class so that productions can be saved to the database. First I created the model with
@@ -162,7 +147,8 @@ SQL Server Object Explorer in Visual Studio to check that the table was created 
 scaffolding the CRUD pages, CRUD follows a simple functionality: Create, Read, Update, Delete. Utilized Visual Studio and EntityFramework
 to create the Index, Edit, Create, Details, and Delete pages).
 
-[Style CRUD Pages Part 2: Index Page for Calendar Event]
+<h4>Style CRUD Pages Part 2: Index Page for Calendar Event</h4>
+Created a button using the 'create new' link. 
 
 
 

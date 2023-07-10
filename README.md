@@ -3,16 +3,11 @@ Code Summary of my Live Project
 
 <h3>Introduction</h3>
 
-During my last two weeks at the tech academy, I worked on a team with peers developing using ASP .NET MVC and Entity Framework.
-This project was previously completed and I was responsible for updating content to be interactive and enable its users to manage
-the content and productions for a theater company.
+During my final two weeks at the Tech Academy, I collaborated with a team of peers to enhance a theater company's website using ASP .NET MVC and Entity Framework. The project had already been completed, and my task involved transforming the content into an interactive format that allowed users to manage the theater's productions.
 
-Throughout the Live project I saved time by utilizing Bootstrap to create responsive and visually appealing webpages for the theater website.
-Responsive design is an essential aspect of modern web development, as it ensures that the website can adapt and provide optimal user experience
-regardless of device. I worked on several front end and back end stories of all varying degrees of difficulty.
+To streamline the development process, I leveraged Bootstrap to create visually appealing and responsive webpages for the theater website. Responsive design plays a crucial role in modern web development as it ensures an optimal user experience across various devices. Throughout the project, I tackled a range of frontend and backend tasks, each with its own level of complexity.
 
-Below are descriptions of the stories I worked on, along with code snippets. I also have some full code files in this repo for larger
-funtionalities I implemented.
+Included below are descriptions of the specific tasks I worked on, accompanied by relevant code snippets. Additionally, this repository contains complete code files for larger functionalities that I implemented.
 
 <h3>Front End Stories</h3>
 

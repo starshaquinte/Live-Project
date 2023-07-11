@@ -9,6 +9,8 @@ To streamline the development process, I leveraged Bootstrap to create visually 
 
 Included below are descriptions of the specific tasks I worked on, accompanied by relevant code snippets. Additionally, this repository contains complete code files for larger functionalities that I implemented.
 
+**Features:** Technologies used in the Live Project include C#, ASP.Net Framework, Razor syntax, HTML, CSS, JavaScript and Entity Framework
+
 <h3>Front End Stories</h3>
 
 [Styling the Homepage](https://github.com/starshaquinte/Live-Project/blob/main/StyleHomePage.html)
